@@ -9,7 +9,7 @@
 
 ### :man_technologist: About me:
 
-I am a junior web developer<img src="https://media .giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif " "="30 "">. My path to it began with college, now I am studying the specialty "System and Network Administration" for the last year. I started learning programming on my own and took several courses. I studied python, javascript, php, html/css. I have created games and various applications, but most of all I like web development. I have been doing web development since February 2022.
+I am a junior web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My path to it began with college, now I am studying the specialty "System and Network Administration" for the last year. I started learning programming on my own and took several courses. I studied python, javascript, php, html/css. I have created games and various applications, but most of all I like web development. I have been doing web development since February 2022.
 
 - :telescope: I study web development in courses
 

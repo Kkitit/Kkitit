@@ -17,6 +17,6 @@ I am a junior web developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: I want to learn a new profession and find a job.
 
-- :mailbox: How to contact me: [![Telegram Badge]()](https://t.me/K_kkit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:a.a.saranchina@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://github.com/Kkitit/Kkitit/blob/main/8.png)](https://t.me/K_kkit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:a.a.saranchina@gmail.com)
 
 ---

@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://github.com/Kkitit/Kkitit/blob/main/me.jpg" align="center" style="width: 100%" />
+</div>  
+  
+
 ### Hi there 👋
 
 <!--
